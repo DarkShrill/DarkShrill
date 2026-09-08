@@ -4,12 +4,16 @@ My name is Edoardo Papa, i'm living in Italy<br>🏔 I’m currently working<br>
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16pddizyAb/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/edoardo_papa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edoardo-papa-74b7b814b) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16pddizyAb/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/edoardo_papa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-papa-74b7b814b) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DarkShrill&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DarkShrill&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkShrill&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-stats-extended.vercel.app/api?username=DarkShrill&theme=default&hide_border=false&include_all_commits=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=DarkShrill&theme=default&hide_border=false)<br/>
+
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=DarkShrill&theme=default&hide_border=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DarkShrill&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=DarkShrill&style=flat)
