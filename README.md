@@ -49,7 +49,10 @@ Custom automotive dashboard interface developed with **Qt Quick and QML**, demon
 `Qt` `QML` `Qt Quick` `UI/UX`
 
 
+## 🎓 Research & Academic
 
+- Master's thesis at the **University of Camerino** focused on **deep learning for stress detection from wearable physiological signals**, with multi-dataset evaluation and subject-independent validation.
+- Co-author of a **2026 peer-reviewed publication in Frontiers in Immunology**.
 
 ## 🔗 Connect
 
