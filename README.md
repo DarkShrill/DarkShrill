@@ -55,15 +55,3 @@ Custom automotive dashboard interface developed with **Qt Quick and QML**, demon
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edoardo%20Papa-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-papa-74b7b814b)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1214--3775-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1214-3775)
-
-# 📊 GitHub Stats:
-
-![](https://github-stats-extended.vercel.app/api?username=DarkShrill&theme=default&hide_border=false&include_all_commits=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=DarkShrill&theme=default&hide_border=false)<br/>
-
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=DarkShrill&theme=default&hide_border=false&layout=compact)
-
----
-
-![](https://komarev.com/ghpvc/?username=DarkShrill&style=flat)
